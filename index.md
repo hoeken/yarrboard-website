@@ -2,17 +2,50 @@
 
 A collection of open hardware projects for automation projects on your boat.
 
-The project is broken into a few different repositories:
+<div class="project-grid">
 
-* [FrothFET](https://github.com/hoeken/frothfet) - 8 Channel Digital Switching board with pwm + load monitoring
-* [FrothFET Firmware](https://github.com/hoeken/frothfet-firmware) - Firmware for the FrothFET board
-* [Brineomatic](https://github.com/hoeken/brineomatic) - Watermaker Controller
-* [Brineomatic Firwmare](https://github.com/hoeken/brineomatic) - Firmware for the Brineomatic board
-* [SendIt](https://github.com/hoeken/sendit) - 8 channel sensor multitool board
-* [SendIt Firwmare](https://github.com/hoeken/sendit-firmware) - Firmware for the SendIt board
-* [Yarrboard Framework](https://github.com/hoeken/YarrboardFramework) - Common framework that all the boards run on
-* [SignalK Plugin](https://github.com/hoeken/signalk-yarrboard-plugin) - Plugin for SignalK integration
-* [Yarrboard Client](https://github.com/hoeken/yarrboard-client) - JS client for controlling a board over websocket
+  <div class="project-card">
+    <img src="/assets/frothfet logo.png" alt="FrothFET Logo" class="project-logo">
+    <h3>FrothFET</h3>
+    <p class="project-desc">8 channel digital switching board with PWM output and per-channel load monitoring.</p>
+    <ul class="project-links">
+      <li><a href="https://github.com/hoeken/frothfet">Hardware</a></li>
+      <li><a href="https://github.com/hoeken/frothfet-firmware">Firmware</a></li>
+    </ul>
+  </div>
+
+  <div class="project-card">
+    <img src="/assets/brineomatic logo.png" alt="Brineomatic Logo" class="project-logo">
+    <h3>Brineomatic</h3>
+    <p class="project-desc">Watermaker controller — automates your reverse osmosis system from start to finish.</p>
+    <ul class="project-links">
+      <li><a href="https://github.com/hoeken/brineomatic">Hardware</a></li>
+      <li><a href="https://github.com/hoeken/brineomatic-firmware">Firmware</a></li>
+    </ul>
+  </div>
+
+  <div class="project-card">
+    <img src="/assets/sendit logo.png" alt="SendIt Logo" class="project-logo">
+    <h3>SendIt</h3>
+    <p class="project-desc">8 channel sensor multitool — read analog, digital, temperature, and more all in one board.</p>
+    <ul class="project-links">
+      <li><a href="https://github.com/hoeken/sendit">Hardware</a></li>
+      <li><a href="https://github.com/hoeken/sendit-firmware">Firmware</a></li>
+    </ul>
+  </div>
+
+  <div class="project-card">
+    <img src="/assets/yarrboard logo.png" alt="Yarrboard Logo" class="project-logo">
+    <h3>Yarrboard Framework</h3>
+    <p class="project-desc">Common ESP32 firmware framework and ecosystem tools shared across all Yarrboard hardware.</p>
+    <ul class="project-links">
+      <li><a href="https://github.com/hoeken/YarrboardFramework">Framework</a></li>
+      <li><a href="https://github.com/hoeken/signalk-yarrboard-plugin">SignalK Plugin</a></li>
+      <li><a href="https://github.com/hoeken/yarrboard-client">JS Client</a></li>
+    </ul>
+  </div>
+
+</div>
 
 ## Interface
 
