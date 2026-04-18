@@ -23,13 +23,13 @@ h1, h2
 }
 
 .project-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  display: grid !important;
+  grid-template-columns: repeat(2, 1fr) !important;
   gap: 1.5rem;
   margin: 2rem 0;
 
   @media (max-width: 600px) {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr !important;
   }
 }
 
@@ -44,9 +44,9 @@ h1, h2
   text-align: center;
 
   .project-logo {
-    max-height: 80px;
-    max-width: 100%;
-    object-fit: contain;
+    max-width: 300px;
+    width: 100%;
+    height: auto;
     margin-bottom: 1rem;
   }
 
