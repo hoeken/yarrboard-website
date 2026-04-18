@@ -5,17 +5,6 @@ A collection of open hardware projects for automation projects on your boat.
 <div class="project-grid">
 
   <div class="project-card">
-    <a href="https://www.frothfet.com"><img src="/assets/frothfet logo.png" alt="FrothFET Logo" class="project-logo"></a>
-    <h3>FrothFET</h3>
-    <p class="project-desc">8 channel digital switching board with PWM output and per-channel load monitoring.</p>
-    <ul class="project-links">
-      <li><a href="https://www.frothfet.com">Documentation</a></li>
-      <li><a href="https://github.com/hoeken/frothfet">Hardware Repository</a></li>
-      <li><a href="https://github.com/hoeken/frothfet-firmware">Firmware Repository</a></li>
-    </ul>
-  </div>
-
-  <div class="project-card">
     <a href="https://www.brineomatic.com"><img src="/assets/brineomatic logo.png" alt="Brineomatic Logo" class="project-logo"></a>
     <h3>Brineomatic</h3>
     <p class="project-desc">Watermaker controller — automates your reverse osmosis system from start to finish.</p>
@@ -23,6 +12,17 @@ A collection of open hardware projects for automation projects on your boat.
       <li><a href="https://www.brineomatic.com">Documentation</a></li>
       <li><a href="https://github.com/hoeken/brineomatic">Hardware Repository</a></li>
       <li><a href="https://github.com/hoeken/brineomatic-firmware">Firmware Repository</a></li>
+    </ul>
+  </div>
+
+  <div class="project-card">
+    <a href="https://www.frothfet.com"><img src="/assets/frothfet logo.png" alt="FrothFET Logo" class="project-logo"></a>
+    <h3>FrothFET</h3>
+    <p class="project-desc">8 channel digital switching board with PWM output and per-channel load monitoring.</p>
+    <ul class="project-links">
+      <li><a href="https://www.frothfet.com">Documentation</a></li>
+      <li><a href="https://github.com/hoeken/frothfet">Hardware Repository</a></li>
+      <li><a href="https://github.com/hoeken/frothfet-firmware">Firmware Repository</a></li>
     </ul>
   </div>
 
