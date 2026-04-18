@@ -57,12 +57,6 @@ Since it is based on the esp32, the main communication method is over WiFi.  Set
 
 ![Screenshot of UI](/assets/FrothFET UI.png)
 
-## SignalK
-
-There is also a plugin for integration with SignalK, so you can have your data all in one place.  It supports two way comms, so you can use SignalK and Node-RED to turn your loads on or off.
-
-The plugin for SignalK is called [signalk-yarrboard-plugin](https://github.com/hoeken/signalk-yarrboard-plugin)
-
 ## How To Get One
 
 No production as of right now, but possibly in the future.  It is 100% open source, so its possible to order PCBs, parts, and DIY your own board if you like.  There is the potential of partnering with the right person to take care of the manufacturing side of things, or you could make and sell your own - its open source after all!
