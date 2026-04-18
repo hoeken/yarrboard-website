@@ -1,3 +1,8 @@
+---
+title: Yarrboard
+nav_order: 1
+---
+
 # Yarrboard <span class="tagline">Open Hardware For Your Boat.</span>
 
 <div class="project-grid">
@@ -5,7 +10,7 @@
   <div class="project-card">
     <a href="https://www.brineomatic.com"><img src="/assets/brineomatic logo.png" alt="Brineomatic Logo" class="project-logo"></a>
     <h3>Brineomatic</h3>
-    <p class="project-desc">Watermaker controller — automates your reverse osmosis system from start to finish.</p>
+    <p class="project-desc">Watermaker controller — automate your marine reverse osmosis system from start to finish.</p>
     <ul class="project-links">
       <li><a href="https://www.brineomatic.com">Documentation</a></li>
       <li><a href="https://github.com/hoeken/brineomatic">Hardware Repository</a></li>
@@ -29,7 +34,7 @@
   <div class="project-card">
     <a href="https://sendit.yarrboard.com"><img src="/assets/sendit logo.png" alt="SendIt Logo" class="project-logo"></a>
     <h3>SendIt</h3>
-    <p class="project-desc">8 channel sensor multitool — read analog, digital, temperature, and more all in one board.</p>
+    <p class="project-desc">8 channel sensor multitool - read analog, digital, temperature, and more all in one board.</p>
     <ul class="project-links">
       <li><a href="https://sendit.yarrboard.com">Documentation</a></li>
       <li><a href="https://github.com/hoeken/sendit">Hardware Repository</a></li>
