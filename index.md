@@ -38,7 +38,7 @@ A collection of open hardware projects for automation projects on your boat.
   </div>
 
   <div class="project-card">
-    <a href="https://framework.yarrboard.com"><img src="/assets/yarrboard logo.png" alt="Yarrboard Logo" class="project-logo">
+    <a href="https://framework.yarrboard.com"><img src="/assets/yarrboard logo.png" alt="Yarrboard Logo" class="project-logo"></a>
     <h3>Yarrboard Framework</h3>
     <p class="project-desc">Common ESP32 firmware framework and ecosystem tools shared across all Yarrboard hardware.</p>
     <ul class="project-links">
