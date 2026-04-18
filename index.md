@@ -1,6 +1,5 @@
 # Yarrboard
-
-A collection of open hardware projects for automation projects on your boat.
+## Open Hardware For Your Boat.
 
 <div class="project-grid">
 
