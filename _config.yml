@@ -12,13 +12,13 @@ heading_anchors: true
 
 nav_external_links:
   - title: Frothfet
-    url: https://frothfet.com
+    url: https://www.frothfet.com
   - title: Brineomatic
-    url: https://brineomatic.com
+    url: https://www.brineomatic.com
   - title: Sendit
-    url: https://senditboard.com
+    url: https://sendit.yarrboard.com
   - title: Yarrboard Framework
-    url: https://yarrboard.com
+    url: https://framework.yarrboard.com
 
 aux_links:
   "GitHub":
