@@ -10,6 +10,16 @@ favicon_ico: "/favicon.ico"
 search_enabled: true
 heading_anchors: true
 
+nav_external_links:
+  - title: Frothfet
+    url: https://frothfet.com
+  - title: Brineomatic
+    url: https://brineomatic.com
+  - title: Sendit
+    url: https://senditboard.com
+  - title: Yarrboard Framework
+    url: https://yarrboard.com
+
 aux_links:
   "GitHub":
     - "https://github.com/hoeken/yarrboard"
