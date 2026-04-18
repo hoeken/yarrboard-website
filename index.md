@@ -12,6 +12,7 @@ A collection of open hardware projects for automation projects on your boat.
       <li><a href="https://www.brineomatic.com">Documentation</a></li>
       <li><a href="https://github.com/hoeken/brineomatic">Hardware Repository</a></li>
       <li><a href="https://github.com/hoeken/brineomatic-firmware">Firmware Repository</a></li>
+      <li><a href="https://github.com/hoeken/signalk-brineomatic-plugin">SignalK Plugin</a></li>
     </ul>
   </div>
 
@@ -23,6 +24,7 @@ A collection of open hardware projects for automation projects on your boat.
       <li><a href="https://www.frothfet.com">Documentation</a></li>
       <li><a href="https://github.com/hoeken/frothfet">Hardware Repository</a></li>
       <li><a href="https://github.com/hoeken/frothfet-firmware">Firmware Repository</a></li>
+      <li><a href="https://github.com/hoeken/signalk-frothfet-plugin">SignalK Plugin</a></li>
     </ul>
   </div>
 
@@ -34,6 +36,7 @@ A collection of open hardware projects for automation projects on your boat.
       <li><a href="https://sendit.yarrboard.com">Documentation</a></li>
       <li><a href="https://github.com/hoeken/sendit">Hardware Repository</a></li>
       <li><a href="https://github.com/hoeken/sendit-firmware">Firmware Repository</a></li>
+      <li><a href="https://github.com/hoeken/signalk-sendit-plugin">SignalK Plugin</a></li>
     </ul>
   </div>
 
@@ -43,9 +46,10 @@ A collection of open hardware projects for automation projects on your boat.
     <p class="project-desc">Common ESP32 firmware framework and ecosystem tools shared across all Yarrboard hardware.</p>
     <ul class="project-links">
       <li><a href="https://framework.yarrboard.com">Documentation</a></li>
-      <li><a href="https://github.com/hoeken/YarrboardFramework">Yarrboard Framework</a></li>
-      <li><a href="https://github.com/hoeken/signalk-yarrboard-plugin">SignalK Plugin</a></li>
-      <li><a href="https://github.com/hoeken/yarrboard-client">JS Client</a></li>
+      <li><a href="https://github.com/hoeken/YarrboardFramework">Framework Repository</a></li>
+      <li><a href="https://github.com/hoeken/yarrboard-client">Javascript Client</a></li>
+      <li><a href="https://github.com/hoeken/yarrboard-hardware">yarrboard-hardware - shared Kicad library</a></li>
+      <li><a href="https://github.com/hoeken/PsychicHttp">PsychicHTTP - ESP32 Webserver</a></li>
     </ul>
   </div>
 
