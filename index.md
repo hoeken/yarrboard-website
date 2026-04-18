@@ -1,4 +1,4 @@
-<h1>Yarrboard <span class="tagline">Open Hardware For Your Boat.</span></h1>
+# Yarrboard <span class="tagline">Open Hardware For Your Boat.</span>
 
 <div class="project-grid">
 
