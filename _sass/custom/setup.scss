@@ -40,8 +40,8 @@ h1, h2
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
   display: flex;
   flex-direction: column;
-  align-items: center;
-  text-align: center;
+  align-items: left;
+  text-align: left;
 
   .project-logo {
     max-width: 300px;
@@ -70,6 +70,10 @@ h1, h2
 
     li {
       margin: 0.2rem 0;
+      list-style: none;
+      &::before {
+        display: none;
+      }
     }
   }
 }
