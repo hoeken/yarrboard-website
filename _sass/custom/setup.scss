@@ -18,6 +18,19 @@ h1, h2
   clear: both;
 }
 
+h1 .tagline {
+  font-size: 0.5em;
+  font-weight: normal;
+  color: $grey-dk-000;
+  margin-left: 0.5em;
+
+  @media (max-width: 600px) {
+    display: block;
+    margin-left: 0;
+    margin-top: 0.25em;
+  }
+}
+
 .warning, .note, .new {
   clear: both;
 }
